@@ -18,8 +18,7 @@ module.exports = {
 
   devServer: {
     static: './dist',
-    compress: true,
-    disableHostCheck: true,
+    allowedHosts: "all",
   },
   output: {
 
