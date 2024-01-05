@@ -14,7 +14,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Live Demo](#live-demo)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -50,8 +50,8 @@
 
 > Here are some key features of the application :
 
-- **Remove function to the list.**
-
+- **Add score to the list.**
+- **Refresh the list.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,10 +68,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-npm i
-
-### Setup
-
 Clone this repository to your desired folder:
 
 Example commands:
@@ -87,27 +83,23 @@ Example commands:
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  npm install
+  
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 Open the index.html file in a web browser
 
-<!--
-Example command:
+
 
 ```sh
-  rails server
+  npm start
 ```
---->
+
 
 ### Run tests
 
@@ -133,20 +125,15 @@ To run the ESLint linter
   npx eslint .
 ```
 
-### Deployment
+<!-- LIVE DEMO -->
 
-You can deploy this project using:
--Go to the main folder of the project and double-click on the index.html file.
+## 🚀 Live Demo <a name="live-demo"> </a>
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+[Live demo](https://leaderboard-01g5.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- AUTHORS -->
 
